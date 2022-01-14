@@ -9,7 +9,7 @@ to analyze the direction of his parents business will take based on annual retur
 
 ## DQ's ANNUAL RETURN
 
-Tom's parents woul like to analyse DAQO's annual return in order to take decisions about their investments. We create an easy way to compare and analyse this desicion. 
+Tom's parents would like to analyse DAQO's annual return in order to take decisions about their investments. We create an easy way to compare and analyse this desicion. 
 with our code we can show them annual returns summarized and well ordered. 
 
 As showed bellow, Tom's parents has a lot to think about DQ. 2017 vs 2018 results does not seems promissing. It looks like company has to work hard in order to change this 
