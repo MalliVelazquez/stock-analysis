@@ -7,7 +7,7 @@ a company during several years?, well, it might seems quite difficult but tuns o
 For this analysis we play a little with DAQO's data base of stock during 2017 and 2018 looking for ways to improve their capital of investment and giving Tom the oportunity 
 to analyze the direction of his parents business will take based on annual returns. 
 
-## DAQO's ANNUAL RETURN
+## DQ's ANNUAL RETURN
 
 Tom's parents woul like to analyse DAQO's annual return in order to take decisions about their investments. We create an easy way to compare and analyse this desicion. 
 with our code we can show them annual returns summarized and well ordered. 
