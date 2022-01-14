@@ -12,7 +12,7 @@ to analyze the direction of his parents business will take based on annual retur
 Tom's parents woul like to analyse DAQO's annual return in order to take decisions about their investments. We create an easy way to compare and analyse this desicion. 
 with our code we can show them annual returns summarized and well ordered. 
 
-As showed bellow, Tom's parents has a lot to think about DQ. 2017 vs 2018 results does not seems promissing. It looks that they have to work hard in order to changes this 
+As showed bellow, Tom's parents has a lot to think about DQ. 2017 vs 2018 results does not seems promissing. It looks like company has to work hard in order to change this 
 red numbers. Maybe another strategy or a deep thinking about the future might help: 
 
 ![2017](https://user-images.githubusercontent.com/96633294/149430347-f806cb10-776f-42ce-9ef8-b2c7c0173f86.png)
@@ -22,7 +22,7 @@ red numbers. Maybe another strategy or a deep thinking about the future might he
 
 ## REFACTOR A CODE, PROS AND CONS
 
-First, we'll play a little simple, we show Tom the retourns for DAQO during certain year, this might seems simple but useful. Coding for this part it's also not very elaborated:
+First, we'll play a little simple, we show Tom DAQO's retourn during certain year, this might seems simple but useful. Coding for this part it's also not very elaborated:
 
 ```
     Worksheets("2018").Activate
@@ -60,13 +60,13 @@ First, we'll play a little simple, we show Tom the retourns for DAQO during cert
     
   ```
 
-You might notice this helps, but wont be useful if user does not code and need to check another years return, nor less if he wants to know what does all this number means, so
+You might notice this helps, but wont be useful if user does not code and need to check another years return, nor less if he wants to know what does all this numbers means, so
 we need to transform all this information in a more friendly user information. 
 
 ###### REFACTOR CODE
 
-We need to remember that for people that do not code it could result just OK our previous code, but they need more tools, some more reserch around the data base. For that 
-porpuse we need to transform our macro in someting **easy peasy to work with**
+We need to remember that for people that do not code it could result just OK our previous code, but they need more tools, some more reserch around the data base, but keep it
+simple for them. For that porpuse we need to transform our macro in someting more **easy peasy to work with**
 
 That's why we add a new macro, able to deep dive any year they need in just a button click and showing with colors what does all that numbers mean: 
 
