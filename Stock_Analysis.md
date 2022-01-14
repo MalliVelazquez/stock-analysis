@@ -17,7 +17,7 @@ red numbers. Maybe another strategy or a deep thinking about the future might he
 
 ![2017](https://user-images.githubusercontent.com/96633294/149430347-f806cb10-776f-42ce-9ef8-b2c7c0173f86.png)
 
-![2018](https://user-images.githubusercontent.com/96633294/149430363-4fd7dd55-21c4-4c3e-9074-a05738475793.png)
+![2018](https://user-images.githubusercontent.com/96633294/149431212-87fb3079-a72f-4072-a881-658324b1ac2d.png)
 
 
 ## REFACTOR A CODE, PROS AND CONS
