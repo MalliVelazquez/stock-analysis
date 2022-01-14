@@ -5,7 +5,7 @@ a company during several years?, well, it might seems quite difficult but tuns o
 For this analysis we play a little with DAQO's data base of stock during 2017 and 2018 looking for ways to improve their capital of investment and giving Tom the oportunity 
 to analyze the direction his parents business will take based on annual returns. 
 
-##REFACTOR A CODE, PROS AND CONS
+## REFACTOR A CODE, PROS AND CONS
 
 First, we'll play a little simple, we show Tom the retourns for DAQO during certain year, this might seems simple but useful. Coding for this part it's also not very elaborated:
 
@@ -48,11 +48,13 @@ First, we'll play a little simple, we show Tom the retourns for DAQO during cert
 You might notice this helps, but wont be useful if user does not  code and need to check another years return, nor less if he wants to know what does all this number means, so
 we need to transform all this information in a more friendly user information. 
 
-######REFACTOR CODE
+###### REFACTOR CODE
 
 We need to remember that for people that do not code it could result just OK our previous code, but they need more tools, some more reserch around the data base. For that 
 porpuse we need to transform our macro in someting **easy peasy to work with**
 
 That's why we add a new macro, able to deep dive any year they need in just a button click: 
+
+![Sin título](https://user-images.githubusercontent.com/96633294/149429177-1b12ad4f-77c4-48db-a47a-754a10a01ccd.png)
 
 
