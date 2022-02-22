@@ -121,7 +121,7 @@ For i = 0 To 11
 You can notice this "new code" looks pretty similar as the one before but it takes all worksheets and run it at the same time. Pretty simple as it sounds, user can just click a
 button and all their information we'll be showed. 
 
-Only thing left is to take decitions, to analyse the direction of the company and invest in the best option. 
+Only thing left is to take decitions, to analyse the direction of the company and invest in the best option...
 
 **great power comes great responsibility**
 
